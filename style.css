@@ -437,4 +437,8 @@ footer p{
     input:hover{
         transform: scale(1.2);
     }
+    .contact textarea{
+        height: 100px;
+    }
 }
+
